@@ -10,13 +10,13 @@
      ![212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41](https://github.com/user-attachments/assets/344605ac-afae-446f-b579-8d5a0ef32be7)
 
 
-Connect With Me: 
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/17c60c33-3246-405b-94bc-6db9e52ffb2a">
- <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/17c60c33-3246-405b-94bc-6db9e52ffb2a">
- <img alt="LINK" src="https://github.com/user-attachments/assets/17c60c33-3246-405b-94bc-6db9e52ffb2a">
-</picture>
-https://www.linkedin.com/in/shashank-shahi/
+   Connect With Me: 
+   <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/17c60c33-3246-405b-94bc-6db9e52ffb2a">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/17c60c33-3246-405b-94bc-6db9e52ffb2a">
+    <img alt="LINK" src="https://github.com/user-attachments/assets/17c60c33-3246-405b-94bc-6db9e52ffb2a">
+   </picture>
+   https://www.linkedin.com/in/shashank-shahi/
 
 
 
