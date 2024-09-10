@@ -10,11 +10,11 @@
      ![212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41](https://github.com/user-attachments/assets/344605ac-afae-446f-b579-8d5a0ef32be7)
 
 
-   <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahishashank&label=Profile%20views&color=0e75b6&style=flat" alt="shahishashank" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shahishashank&label=Profile%20views&color=0e75b6&style=flat" alt="shahishashank" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/shashank shahi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shashank shahi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shashank-shahi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shashank-shahi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -24,6 +24,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shahishashank&show_icons=true&locale=en" alt="shahishashank" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahishashank&" alt="shahishashank" /></p>
 
 
 <!---
