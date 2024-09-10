@@ -1,5 +1,3 @@
-https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub
-
 - 👋 Hi, I’m Shashank Shahi
 - 👀 I’m interested in Data Analysis, Data Visualisation and ML
 - 🌱 I’m currently learning Data Analysis and ML
