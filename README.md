@@ -6,7 +6,13 @@ https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub
 - 🤠I'm looking for Full Time Bussiness Analyst and Data Analyst roles
 
 Connect With Me: 
-![image](https://github.com/user-attachments/assets/d8261067-8f12-4cdc-ad33-6899931df9ac) 
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/17c60c33-3246-405b-94bc-6db9e52ffb2a">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/17c60c33-3246-405b-94bc-6db9e52ffb2a">
+ <img alt="LINK" src="https://github.com/user-attachments/assets/17c60c33-3246-405b-94bc-6db9e52ffb2a">
+</picture>
+https://www.linkedin.com/in/shashank-shahi/
+
 
 
 <!---
